@@ -3,3 +3,11 @@
 失去的就得拿回来
 
 ty决定
+
+git remote add xxx git://
+
+git push origin master
+
+git fetch 
+
+git merge
